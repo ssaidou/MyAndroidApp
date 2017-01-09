@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">The important thing is not to stop questioning.
+        Curiosity has its own reason for existence.
+        One cannot help but be in awe when he contemplates the mysteries of eternity, of life, of the marvelous structure of reality.
+        It is enough if one tries merely to comprehend a little of this mystery each day.
+
+        Once you can accept the universe as matter expanding into nothing that is something, wearing stripes with plaid comes easy.
+
+        If I were not a physicist, I would probably be a musician.
+        I often think in music. I live my daydreams in music. I see my life in terms of music. Albert Einstein: %1$d
+    </string>
+</resources>
